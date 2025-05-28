@@ -123,7 +123,7 @@ O firmware foi desenvolvido em linguagem C para o [SDK](https://github.com/raspb
 
 ## Fluxograma
 
-<img src="https://www.mermaidchart.com/raw/9d138546-003b-4151-94b1-94bc7e652bd3?theme=light&version=v0.1&format=svg" width="800">
+<img src="https://www.mermaidchart.com/raw/438adeef-2648-4d42-a505-f6783c759e18?theme=light&version=v0.1&format=svg" width="800">
 
 ## Indicação do uso de IA
 
